@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "viscomp"]
+	path = viscomp
+	url = https://github.com/georgiosseitidis/viscomp
+	shallow = true
+	registered = true
